@@ -5,7 +5,9 @@ Multer is a node.js middleware for handling multipart/form-data, which is primar
 # Installation
 $ npm install
 
-# Usage
+# Server
 Start Server using:  node server.js
+
+# Usage
 Goto url:: http://localhost:3000
-    Upload the file and that file will be store in upload folder. you can see logs containing filename, path with full file description.
+Upload the file and that file will be store in upload folder. you can see logs containing filename, path with full file description.
